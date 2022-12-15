@@ -7,5 +7,6 @@ scikit-learn
 matplotlib
 seaborn
 plotly
+nbformat>=4.2.0
 # interactive jupyter widget
 ipywidgets
