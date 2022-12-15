@@ -26,6 +26,18 @@ DATA_ANALYST_HELP_MESSAGE = \
 """
 help():
     List all functions of DataAnalyst
+get_all_column_info():
+    Get column name and type of self.df
+inspect_data():
+    Column-wise descriptive statistics & Data Type
+detect_suspicious():
+    Detect suspicious values
+detect_missing():
+    Detect Missing data
+detect_duplicate():
+    Detect Duplicate
+custom_feature_engineering():
+    Custom column combination support
 """
 
 VISUALIZER_HELP_MESSAGE = \
