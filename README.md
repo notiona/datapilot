@@ -1,5 +1,5 @@
 # Datapilot
-Datapilot is an open-source, low-code data analysis & machine learning assistant library in Python.
+Datapilot is an open-source, low-code data wrangling assistant library in Python.
 
 # Installation
 ```bash
