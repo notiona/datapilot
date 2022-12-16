@@ -32,6 +32,8 @@ fastjsonschema==2.16.2
     # via nbformat
 fonttools==4.38.0
     # via matplotlib
+importlib-metadata==5.1.0
+    # via markdown
 importlib-resources==5.10.1
     # via jsonschema
 ipykernel==6.19.2
@@ -58,6 +60,8 @@ jupyterlab-widgets==3.0.4
     # via ipywidgets
 kiwisolver==1.4.4
     # via matplotlib
+markdown==3.4.1
+    # via -r requirements.in
 matplotlib==3.6.2
     # via
     #   -r requirements.in
@@ -150,6 +154,7 @@ tornado==6.2
     #   jupyter-client
 traitlets==5.7.0
     # via
+    #   -r requirements.in
     #   comm
     #   ipykernel
     #   ipython
@@ -163,4 +168,6 @@ wcwidth==0.2.5
 widgetsnbextension==4.0.4
     # via ipywidgets
 zipp==3.11.0
-    # via importlib-resources
+    # via
+    #   importlib-metadata
+    #   importlib-resources
