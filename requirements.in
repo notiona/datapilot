@@ -13,11 +13,11 @@ ipywidgets
 markdown
 traitlets
 # security guides
-tornado>=6.3.2
+tornado>6.5
 Pygments>=2.15.0
 Pillow>=10.0.1
 pillow>=10.0.1
-fonttools>=4.43.0
+fonttools>4.60.2
 scikit-learn>=1.5.0
 zipp>=3.19.1
 ipython>=8.10.0

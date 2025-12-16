@@ -28,7 +28,7 @@ executing==1.2.0
     # via stack-data
 fastjsonschema==2.16.2
     # via nbformat
-fonttools==4.55.3
+fonttools==4.61.1
     # via
     #   -r requirements.in
     #   matplotlib
@@ -147,7 +147,7 @@ tenacity==8.1.0
     # via plotly
 threadpoolctl==3.1.0
     # via scikit-learn
-tornado==6.4.2
+tornado==6.5.4
     # via
     #   -r requirements.in
     #   ipykernel
